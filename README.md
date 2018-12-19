@@ -5,7 +5,7 @@ Specifically, this is a collection of theoretical crypto where the model include
 
 We especially like Sybil resistant protocols, where everyone can become a player (possibly with staking some value) and the protocol will eventually succeed even in the presence of many Sybil identities of an malicious adversary.
 
-1. Rational Sumchecks by Siyao Guo1, Pavel Hubácek, Alon Rosen, and Margarita Vald: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://eprint.iacr.org/2015/1058.pdf
+1. Rational Sumchecks by Siyao Guo1, Pavel Hubácek, Alon Rosen, and Margarita Vald: https://eprint.iacr.org/2015/1058.pdf
 
 2. Rational proofs paper: Azar and Micali (STOC 2012)
 
