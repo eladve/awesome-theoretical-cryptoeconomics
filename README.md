@@ -7,7 +7,7 @@ We especially like Sybil resistant protocols, where everyone can become a player
 
 These models might be related to a "high soundness" model where protocols just don't really have to satisfy good soundbess, but rather soundness can be maybe as high as 1-1/poly(n) (in generall let's say it's 1-eps). In this soundness regime, the point is to force the player to deposit x/eps "coins", and then when they do get caught, the amortized penalty over every time they lied comes out to be x.
 
-Papers in such models: (this is a living document -- add more!)
+Papers in such models: (this is a living document -- add more and open a pull request!)
 
 1. Rational Sumchecks by Siyao Guo1, Pavel Hubácek, Alon Rosen, and Margarita Vald: https://eprint.iacr.org/2015/1058.pdf
 
